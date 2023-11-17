@@ -1,0 +1,3 @@
+[submodule "self-study-skeleton"]
+	path = self-study-skeleton
+	url = https://github.com/letishabitu/ReactState_selfStudy.git
